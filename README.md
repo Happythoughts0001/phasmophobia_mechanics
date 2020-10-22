@@ -1,12 +1,6 @@
 # Phasmophobia Mechanics
 #### Compiled by Azsry
-#### Forked and colored by Happythoughts
-
-
- ```diff
-- text in red is something I consider important
-! text in orange is something I consider could be potentially important
-```
+#### Forked and marked by Happythoughts
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
       - [Compiled by Azsry](#compiled-by-azsry)
@@ -85,7 +79,7 @@
   - Capped at 50 during setup phase
   - Uncapped to 100 during regular play
   - Increases every frame by ((deltaTime * setup/normal drop rate) * difficulty rate (below))
-  - #### Insanity does not increase when you are in light or are outside the house
+  - __Insanity does not increase when you are in light or are outside the house__
 
   - Light status updates every 2 seconds
   - Insanity level is synced to other players every 5 seconds
