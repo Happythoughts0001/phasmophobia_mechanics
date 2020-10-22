@@ -1,5 +1,8 @@
 # Phasmophobia Mechanics
 #### Compiled by Azsry
+#### Forked and colored by Happythoughts
+
+- ![#f03c15] red `#f03c15`
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
       - [Compiled by Azsry](#compiled-by-azsry)
