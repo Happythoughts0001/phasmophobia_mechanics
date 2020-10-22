@@ -3,13 +3,9 @@
 #### Forked and colored by Happythoughts
 
 
- <h3 style="color:#ff0000">Danger</h3>
  ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- text in red is something I consider important
+! text in orange is something I consider could be potentially important
 ```
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
@@ -89,7 +85,8 @@
   - Capped at 50 during setup phase
   - Uncapped to 100 during regular play
   - Increases every frame by ((deltaTime * setup/normal drop rate) * difficulty rate (below))
-  - Insanity does not increase when you are in light or are outside the house
+  - #### Insanity does not increase when you are in light or are outside the house
+
   - Light status updates every 2 seconds
   - Insanity level is synced to other players every 5 seconds
   - Being within 3m of a Jinn instantly increases your insanity by 25%
