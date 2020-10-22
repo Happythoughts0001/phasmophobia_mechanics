@@ -2,12 +2,12 @@
 #### Compiled by Azsry
 #### Forked and colored by Happythoughts
 
-```diff
+
 - text in red
 + text in green
 ! text in orange
 # text in gray
-```
+
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
       - [Compiled by Azsry](#compiled-by-azsry)
