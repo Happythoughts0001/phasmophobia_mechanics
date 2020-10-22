@@ -3,11 +3,14 @@
 #### Forked and colored by Happythoughts
 
 
+ <h3 style="color:#ff0000">Danger</h3>
+ ```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
-
+@@ text in purple (and bold)@@
+```
 
 - [Phasmophobia Mechanics](#phasmophobia-mechanics)
       - [Compiled by Azsry](#compiled-by-azsry)
